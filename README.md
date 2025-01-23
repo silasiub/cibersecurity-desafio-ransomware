@@ -7,7 +7,7 @@
 
 ### Funcionamento
 - Executado o comando ```python3 -m venv py ``` para criar o ambiente de desenvolvimento do script
-- Executado o comando ```pip3 freeze > requirements.txt``` para gerar o arquivos com as dependências do script
+- Executado o comando ```pip3 freeze > requirements.txt``` para gerar o arquivo com as dependências do script
 
 Ao executar o arquivo ``` encrypter.py ```, o script:
 - Lê o conteúdo do arquivo ``` teste.txt ``` e o armazena na variável ```file_data```
